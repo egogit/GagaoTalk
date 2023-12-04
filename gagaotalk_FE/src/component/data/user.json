@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "chatbot",
+    "profile": "https://blog.kakaocdn.net/dn/bWJ0yg/btrXmpwnO4E/pkp2XAbgcQJxE0ioMA2X7k/img.png"
+  },
+  {
+    "id": 1,
+    "name": "admin",
+    "profile": "https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg"
+  },
+  {
+    "id": 2,
+    "name": "user",
+    "profile": "https://cdn.aitimes.com/news/photo/202208/146158_153786_447.jpg"
+  },
+  {
+    "id": 4,
+    "name": "hymin",
+    "profile": "https://dimg.donga.com/wps/NEWS/IMAGE/2022/01/28/111500268.2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "eucalyptus",
+    "profile": "https://cdn.imweb.me/upload/S202007105aad7265a8cf7/91c2a7b80a7a0.jpg"
+  }
+]

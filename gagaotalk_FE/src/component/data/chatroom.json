@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "admin, user",
+    "participant": [
+      "admin",
+      "user",
+      "hymin",
+      "eucalyptus"
+    ],
+    "chats": [
+      {
+        "id": 100001,
+        "sender": 1,
+        "chat": "안녕하세요 GagaoTalk에 오신 것을 환영합니다."
+      },
+      {
+        "id": 100002,
+        "sender": 1,
+        "chat": "Test용 채팅방입니다."
+      },
+      {
+        "id": 100003,
+        "sender": 2,
+        "chat": "그렇군요!!"
+      },
+      {
+        "id": 100004,
+        "sender": 5,
+        "chat": "안녕하세요 처음 뵙겠습니다."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "hymin",
+    "participant": [
+      "hymin"
+    ],
+    "chats": [
+      {
+        "id": 200000,
+        "sender": 4,
+        "chat": "새로 만든 채팅창입니다."
+      },
+      {
+        "id": 200002,
+        "sender": 4,
+        "chat": "#calculate 4*5/2"
+      },
+      {
+        "id": 200003,
+        "sender": 0,
+        "chat": "4*5/2의 계산 결과는 10입니다."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "eucalyptus",
+    "participant": [
+      "eucalyptus"
+    ],
+    "chats": [
+      {
+        "id": 300001,
+        "sender": 5,
+        "chat": "#calculate 4*20-26"
+      },
+      {
+        "id": 300002,
+        "sender": 0,
+        "chat": "4*20-26의 계산 결과는 54입니다."
+      }
+    ]
+  }
+]
